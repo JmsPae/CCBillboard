@@ -1,2 +1,6 @@
 discord.py==2.3.2
+numba==0.58.1
+numpy==1.26.1
+pathlib==1.0.1
+Pillow==10.1.0
 python-dotenv==1.0.0
